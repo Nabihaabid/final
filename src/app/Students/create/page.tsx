@@ -57,7 +57,7 @@ export default function CreateStudentPage() {
                 <FormControl>
                   <Input placeholder="Name" {...field} />
                 </FormControl>
-                <FormDescription>Enter the student's name.</FormDescription>
+                <FormDescription>Enter the student name.</FormDescription>
                 <FormMessage />
               </FormItem>
             )}
